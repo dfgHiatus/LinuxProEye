@@ -1,0 +1,16 @@
+J:\ViveProEyeLinux\ViveProEyeCompanion\bin\Debug\net5.0\ViveProEyeCompanion.exe
+J:\ViveProEyeLinux\ViveProEyeCompanion\bin\Debug\net5.0\ViveProEyeCompanion.deps.json
+J:\ViveProEyeLinux\ViveProEyeCompanion\bin\Debug\net5.0\ViveProEyeCompanion.runtimeconfig.json
+J:\ViveProEyeLinux\ViveProEyeCompanion\bin\Debug\net5.0\ViveProEyeCompanion.runtimeconfig.dev.json
+J:\ViveProEyeLinux\ViveProEyeCompanion\bin\Debug\net5.0\ViveProEyeCompanion.dll
+J:\ViveProEyeLinux\ViveProEyeCompanion\bin\Debug\net5.0\ViveProEyeCompanion.pdb
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ViveProEyeCompanion.csproj.AssemblyReference.cache
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ViveProEyeCompanion.GeneratedMSBuildEditorConfig.editorconfig
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ViveProEyeCompanion.AssemblyInfoInputs.cache
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ViveProEyeCompanion.AssemblyInfo.cs
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ViveProEyeCompanion.csproj.CoreCompileInputs.cache
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ViveProEyeCompanion.dll
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\refint\ViveProEyeCompanion.dll
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ViveProEyeCompanion.pdb
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ViveProEyeCompanion.genruntimeconfig.cache
+J:\ViveProEyeLinux\ViveProEyeCompanion\obj\Debug\net5.0\ref\ViveProEyeCompanion.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ViveProEyeCompanion/1.0.0": {
+        "runtime": {
+          "ViveProEyeCompanion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViveProEyeCompanion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
